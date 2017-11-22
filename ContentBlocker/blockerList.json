@@ -4,7 +4,9 @@
             "type": "block"
         },
         "trigger": {
-            "url-filter": "webkit.svg"
+            "url-filter": ".*",
+            "resource-type": ["style-sheet"],
+            "if-domain": ["*reddit.com", "*facebook.com", "*twitter.com", "*gazeta.pl", "*coinmarketcap.com"]
         }
     }
 ]
