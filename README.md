@@ -1,4 +1,4 @@
-# ShitBlocker
+# ShitBlocker 💩🚫
 
 This is a very simple Safari extension that blocks CSS on some distracting sites. This doesn't completely prevent you from accessing them, but it's enough to immediately remind you that you were supposed to be working and not mindlessly opening those sites.
 
