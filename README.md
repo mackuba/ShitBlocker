@@ -4,6 +4,8 @@ This is a very simple Safari extension that blocks CSS on some distracting sites
 
 I might develop this into a proper app one day and put it on the App Store, but in the meantime, feel free to use it to stop yourself from wasting time reading some shit.
 
+(Yes, this is literally just a fresh Mac app + content blocker target from a template with one custom blocking rule. But as they say, if something looks stupid, but it works, it's not stupid...)
+
 ## Setup
 
 * `git clone git@github.com:mackuba/ShitBlocker.git`
