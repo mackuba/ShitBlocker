@@ -6,7 +6,7 @@
         "trigger": {
             "url-filter": ".*",
             "resource-type": ["style-sheet"],
-            "if-domain": ["*reddit.com", "*facebook.com", "*twitter.com", "*gazeta.pl", "*coinmarketcap.com"]
+            "if-domain": ["*reddit.com", "*facebook.com", "*twitter.com", "*gazeta.pl"]
         }
     }
 ]
